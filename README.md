@@ -119,10 +119,6 @@ I build **intelligent systems at the intersection of machine learning, language 
 - Documented 25+ test scenarios and defects across Agile sprints
 - 🏆 Super Achiever Award
 
-**Data Science Intern** · Acme Grade *(Jul – Sep 2022)*
-- EDA and preprocessing on structured datasets
-- Applied statistical methods and feature preparation for ML workflows
-
 ---
 
 ## Education

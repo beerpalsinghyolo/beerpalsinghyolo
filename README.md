@@ -69,21 +69,12 @@ I build **intelligent systems at the intersection of machine learning, language 
 
 `RAG` `FAISS` `DuckDB` `Docker` `Groq` `LLM`
 
----
 
 ### 📊 [Clinical Patient Analytics Dashboard](https://github.com/beerpalsinghyolo/Clinical-Patient-Analytics-Insights-Dashboard-)
 > ETL pipeline analyzing **750K+ healthcare records** across 100K patients. 20+ visualizations covering disease prevalence, comorbidity patterns, and medication adherence.
 
 `ETL` `Python` `Pandas` `EDA` `Visualization`
 
----
-
-### 🏦 Lloyds Banking — Customer Churn Analysis
-> Churn prediction workflow with feature engineering and logistic regression. Achieved **ROC-AUC of 0.82**; surfaced key churn drivers for stakeholders.
-
-`ML` `Logistic Regression` `Feature Engineering` `ROC-AUC 0.82`
-
----
 
 ### ✈️ British Airways — Review Sentiment Analysis
 > Collected and analyzed customer review data to identify service quality trends and sentiment patterns from unstructured text.
@@ -100,32 +91,6 @@ I build **intelligent systems at the intersection of machine learning, language 
 | 🏆 **Super Achiever Award** | Awarded by Makes360 for outstanding performance during apprenticeship |
 | 🥉 **Third Prize — Project Expo** | Chandigarh University Project Expo |
 | 🎙 **CUDA Society Founder** | Founded & led the Data Analytics Society at CU — 500+ members |
-
----
-
-## Certifications
-
-- 📊 Google Data Analytics Professional
-- 🐍 Python for Data Science — NPTEL
-- 🔄 Agile with Atlassian Jira
-- 🔬 Data Scientist's Toolbox — Johns Hopkins University
-
----
-
-## Experience
-
-**Apprenticeship Trainee** · Makes360 *(Jun – Jul 2024)*
-- Backend workflow development for a University ERP Portal
-- Documented 25+ test scenarios and defects across Agile sprints
-- 🏆 Super Achiever Award
-
----
-
-## Education
-
-🎓 **M.Sc. Data Science** · Chandigarh University · 2025 · CGPA 7.61
-
-🎓 **B.Sc. AI & Machine Learning** · IK Gujral Punjab Technical University · 2023 · CGPA 8.3
 
 ---
 
